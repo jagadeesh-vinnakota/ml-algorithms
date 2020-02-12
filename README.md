@@ -1,6 +1,7 @@
 
 # Machine Learning
-### Is a part of artificial intelligence which is used to observe data and predict the future
+
+### Is a part of artificial intelligence which is used to observe data and predict the future. Some real time implementations are
      
      1. clasiifying email as spam or not
      2. Predecting stock price
@@ -9,45 +10,10 @@
 
 ## Any machine learning problem falls into these two categories.
     
-    1. Supervised Learning: We know the target we are going to train or predict.
-        a. Classification
-        b. Regression
+   ### Supervised Learning: Model uses training data to learn a link between the input and the outputs
+       1. Classification: For tasks like classying email as spam or not.
+       2. Regression: For tasks like predicting the tomorrow's wether.
     
-    2. Unsupervised Learning: We don't know the target at the time of training or predicting
-        a. Clustering
-        b. Anamoly Detection
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Label encoding and categorical encoding: https://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_Data_Preprocessing-Missing-Data-Categorical-Data.php
-
-
-Sklearn Pipeline Example: https://medium.com/vickdata/a-simple-guide-to-scikit-learn-pipelines-4ac0d974bdcf
-
-
-Sklearn preprocessing tutorial:  https://towardsdatascience.com/preprocessing-with-sklearn-a-complete-and-comprehensive-guide-670cb98fcfb9
+   ### Unsupervised Learning: Does not use output data
+        1. Clustering: Used for grouping the data like clustering the documents based on the content
+        2. Anamoly Detection: Detect outliers that behave differently from most of the data.
