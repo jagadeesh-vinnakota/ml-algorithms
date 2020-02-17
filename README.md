@@ -9,8 +9,7 @@
     3. conda upgrade conda
     4. jupyter notebook .
     
-    This will open the file system in jupyter notebooks and you this to become familiar on how to use jupyter. 
-    https://jupyter.readthedocs.io/en/latest/content-quickstart.html
+    This will open the file system in jupyter notebooks and use the below link to familiar yourself with jupyter. https://jupyter.readthedocs.io/en/latest/content-quickstart.html
     
 
 
