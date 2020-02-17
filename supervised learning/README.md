@@ -16,6 +16,7 @@
 
 ### 2. Data Cleaning
     The data that we collect may no be in the best form. There may be null values, missing values. In this step of data cleaning, we need to take care of this. Use this as a refrence on performing some of the data cleaning tasks
+    
     https://realpython.com/python-data-cleaning-numpy-pandas/
     
 
