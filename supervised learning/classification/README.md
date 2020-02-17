@@ -1,14 +1,24 @@
-# headding
 
-## Heading
+## ML models for performing Classification
 
-#### Heading
-
-
-Label encoding and categorical encoding: https://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_Data_Preprocessing-Missing-Data-Categorical-Data.php
-
-
-Sklearn Pipeline Example: https://medium.com/vickdata/a-simple-guide-to-scikit-learn-pipelines-4ac0d974bdcf
-
-
-Sklearn preprocessing tutorial:  https://towardsdatascience.com/preprocessing-with-sklearn-a-complete-and-comprehensive-guide-670cb98fcfb9
+    1. Linear models:
+        https://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model
+     
+    2. Tree based models:
+        https://scikit-learn.org/stable/modules/classes.html#module-sklearn.tree
+        
+    3. vector models:
+        https://scikit-learn.org/stable/modules/classes.html#module-sklearn.svm
+        
+    4. Ensemble models:
+        https://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble
+     
+     
+## Evaluate ML model Performance
+    
+    1. Accuracy
+    2. Precision
+    3. Recall
+    4. F1-score
+    
+    https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics
