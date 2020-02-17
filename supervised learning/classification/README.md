@@ -1,3 +1,6 @@
+# Use case
+    In this classification task, lets try to categorize a person's salary by building an ML model. Here we will be predicting wether a  person's salary will be less than or equal to 50K or greater than 50K
+
 
 ## ML models for performing Classification
 

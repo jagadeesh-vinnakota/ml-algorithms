@@ -1,3 +1,6 @@
+# Use case
+    In this regression task, lets try to predict a person's salary by building an ML model. Here we will be predicting a person's exact salary.
+
 ## ML models for performing regression
 
 1. Linear models:
