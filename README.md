@@ -38,4 +38,3 @@ https://www.guru99.com/unsupervised-machine-learning.html
        
        Does not use output data
         1. Clustering: Used for grouping the data like clustering the documents based on the content
-        2. Anamoly Detection: Detect outliers that behave differently from most of the data.
