@@ -34,8 +34,11 @@ Data encoding: https://towardsdatascience.com/all-about-categorical-variable-enc
     The data we got after data preprocessing can be fed into many available machine learning models. We can use sklearn, tensorflow and many python libraries for this.
     
 k-fold cross validation: https://machinelearningmastery.com/k-fold-cross-validation/
+
 Loss Function: https://towardsdatascience.com/common-loss-functions-in-machine-learning-46af0ffc4d23
+
 Cost Function: https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220
+
 Regularzation: https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
     
     
