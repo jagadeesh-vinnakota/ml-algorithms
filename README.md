@@ -27,7 +27,7 @@
     
    ### Supervised Learning
    
-       https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7
+https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7
        
        Model uses training data to learn a link between the input and the outputs
        1. Classification: For tasks like classying email as spam or not.
@@ -35,7 +35,7 @@
     
    ### Unsupervised Learning
    
-       https://www.guru99.com/unsupervised-machine-learning.html
+https://www.guru99.com/unsupervised-machine-learning.html
        
        Does not use output data
         1. Clustering: Used for grouping the data like clustering the documents based on the content
